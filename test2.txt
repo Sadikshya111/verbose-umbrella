@@ -1,0 +1,16 @@
+This is second file for commit. 
+This can be py or R file
+this is in local
+
+Git Steps: 
+>Git add fileName.extension 
+"Git add test.txt"
+
+> Git Commit fileName.extension or git commit => both need message for commit -m 
+"Git commit test.txt -m "modified msg" 
+"Git commit -m "aggregated msg for all commit"
+ 
+This will not be reflected in Remote Server (github.com )
+
+>Git Push 
+first step add, second step commit, third step push
